@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @niftyduck
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Clean Code!
-- 📫 Visit my IG profile for Gamedev tips! @niftyduck
+- 📫 Visit my IG profile for Gamedev! @niftyduck
 
 <!---
 niftyduck/niftyduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
